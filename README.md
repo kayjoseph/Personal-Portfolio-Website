@@ -11,4 +11,4 @@ This repository contains the source code for my personal website, which serves a
 Hosted using GitHub Pages.
 
 ## Author
-Joseph Kioko
+Joseph 
